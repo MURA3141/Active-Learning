@@ -8,7 +8,7 @@ Active learningとは、学習者が受動的に情報を受け取るのでは�
 学修者が能動的に学修することによって、認知的、倫理的、社会的能力、教養、知識、経験を含めた汎用的能力の育成を図る
 発見学習、問題解決学習、体験学習、調査学習等が含まれるが、教室内でのグループ・ディスカッション、ディベート、グループ・ワーク等も有効なアクティブ・ラーニングの方法
 
-<img width="965" alt="スクリーンショット 2023-04-22 22 13 41" src="https://user-images.githubusercontent.com/131435195/233787260-b37353e8-8bd8-4b93-a91d-768c9c2e6e97.png">
+<img width="962" alt="スクリーンショット 2023-04-22 22 14 47" src="https://user-images.githubusercontent.com/131435195/233787302-2ae78773-c177-4066-ac00-f02a8bfec3f1.png">
 
 
 ## Active learningの効果
