@@ -70,6 +70,8 @@ Active learningでは、グループワークやディスカッションなど�
 
 
 
+
+
 # Active-Learningの具現化
 Active-Learning　という言葉だけが一人走りしている状態は注意をする必要がある。つまり、教育をActive-Learningに寄せる必要はない。講義形式を利用しつつ、Active-Learningを取り入れるなど、Active-Learningは目的に応じて選択され、あくまでも手段の一つである
 
