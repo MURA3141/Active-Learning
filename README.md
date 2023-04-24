@@ -85,5 +85,5 @@ Candle problem （Karl Duncker (2 February 1903, in Leipzig – 23 February 1940
 
 https://www.youtube.com/watch?v=6Vr3amNk8ME
 
-## Dan Arielyの研究
+## Dan Arielyの研究 
 
