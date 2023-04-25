@@ -119,5 +119,6 @@ If Then式に 「これをしたら これが貰える」というやり方は�
  
 ## AIとアクティブラーニング
 AIとは「Artificial Intelligence(アーティフィシャル インテリジェンス)」の略で、日本語では人工知能と訳されます。
-  
+学びの個別最適化の重要性
+  EdTechは、Education（教育）とTechnology（技術）を組み合わせた造語
   
