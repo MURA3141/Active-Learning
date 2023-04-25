@@ -47,6 +47,7 @@ Active learningでは、グループワークやディスカッションなど�
 ## Learning Pyramidの概念 
 
 ラーニングピラミッドでは、以下の学習方法が最も効果的であるとされています。効果的な順に並べると次のようになります。
+
 ![image](https://user-images.githubusercontent.com/131435195/234255987-3116ed05-6c06-4831-9874-fedd075bcda9.png)
 
 
