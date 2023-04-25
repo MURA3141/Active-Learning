@@ -74,11 +74,11 @@ Active learningでは、グループワークやディスカッションなど�
 **教員側の能力**
 
 
-# Active-Learningの具現化
+## Active-Learningの具現化
 Active-Learning　という言葉だけが一人走りしている状態は注意をする必要がある。つまり、教育をActive-Learningに寄せる必要はない。講義形式を利用しつつ、Active-Learningを取り入れるなど、Active-Learningは目的に応じて選択され、あくまでも手段の一つである
 
 
-## ROEE Results Only Education Environment
+### ROEE Results Only Education Environment
 「結果のみが求められる職場環境(Work)や教育環境(Education)」のこと。
 すなわち、「ROEE」は学生にはやらなければならない課題を提示し、学生自身に課題達成の過程に責任を与えることで、結果を出すための自主性を持たせることを意識させる
 スケールは、研究室やゼミなど小グループや個人を対象とした小さな単位の課題もあれば、集団に対してもクリアする課題を明確化し、学生自身が考え、主体的に動くことができる環境を提供する
@@ -87,14 +87,12 @@ Active-Learning　という言葉だけが一人走りしている状態は注�
 つまり、教育には責任が伴うことを理解すること
 そして、如何に自主性を持たせることでやる気にさせること
 
-## どのようにやる気にさせるのか？
-Candle problem （Karl Duncker (2 February 1903, in Leipzig – 23 February 1940) 
-![image](https://user-images.githubusercontent.com/131435195/233791064-ded14d8d-e73d-49c2-a2ec-1b531a01cb46.png)
+### どのようにやる気にさせるのか？
+> Candle problem （Karl Duncker (2 February 1903, in Leipzig – 23 February 1940) 
 問い：テーブルに蝋が垂れないように壁に蝋燭を取り付けてください
+<img width="484" alt="スクリーンショット 2023-04-25 20 03 35" src="https://user-images.githubusercontent.com/131435195/234257906-8398009e-ff53-4822-baa3-8d6d02d34eb6.png">
 
-機能性固着（ものの機能（用途）に固着（固執）するあまり、そのほかの機能（用途）に気づかなくなる心理的傾向）が生じることによる課題の難易度が高まる
-
-
+機能性固着:ものの機能（用途）に固着するあまり、そのほかの機能に気づかなくなることで課題の難易度が高まる
 
 
 Sam Glucksberg 1965年
