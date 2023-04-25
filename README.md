@@ -88,9 +88,13 @@ Active-Learning　という言葉だけが一人走りしている状態は注�
 そして、如何に自主性を持たせることでやる気にさせること
 
 ### どのようにやる気にさせるのか？
+
 > Candle problem （Karl Duncker (2 February 1903, in Leipzig – 23 February 1940) 
+
 問い：テーブルに蝋が垂れないように壁に蝋燭を取り付けてください
-<img width="484" alt="スクリーンショット 2023-04-25 20 03 35" src="https://user-images.githubusercontent.com/131435195/234257906-8398009e-ff53-4822-baa3-8d6d02d34eb6.png">
+
+
+
 
 機能性固着:ものの機能（用途）に固着するあまり、そのほかの機能に気づかなくなることで課題の難易度が高まる
 
