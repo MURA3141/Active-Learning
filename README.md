@@ -53,23 +53,15 @@ Active learning中心型<br>
 ・コミュニケーション能力や協調性<br>
 ![image](https://user-images.githubusercontent.com/131435195/236380788-9651334b-e8a4-46f7-9a9d-b5316aad8919.png)
 
-![image](https://user-images.githubusercontent.com/131435195/236380754-4a74e9ff-348d-451f-8056-2b710cf7104c.png)
-
-他人に教えること（保持率90％）<br>
-実際にやってみること（保持率75％）<br>
-ディスカッショングループ（保持率50％）<br>
-デモンストレーション（保持率30％）<br>
-オーディオビジュアル（保持率20％）<br>
-読書（保持率10％）<br>
-講義（保持率5％）<br>
-
 
 ## Active learningの課題
-授業のデザイン構成が難題
-教員や学生のコミュニケーションスキルやコーチングスキル
-評価方法の課題
-**教員側の能力**
+・授業のデザイン構成が難題<br>
+・教員や学生のコミュニケーションスキルやコーチングスキル<br>
+・評価方法の課題<br>
+**教員側の能力**<br>
 
+
+#　やるきの科学<br>
 
 ## Active-Learningの具現化<br>
 Active-Learning　という言葉だけが一人走りしている状態は注意をする必要がある。つまり、教育をActive-Learningに寄せる必要はない。講義形式を利用しつつ、Active-Learningを取り入れるなど、Active-Learningは目的に応じて選択され、あくまでも手段の一つである。必然的に受講する側のActiveさも必要となる。<br>
