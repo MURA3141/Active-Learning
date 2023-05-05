@@ -138,25 +138,25 @@ Activeな学びのために
 # 集中力の科学
 90分間集中することは可能か　<br> 
  <br>
-## 注意は動物的行動である
-・集中は切れるようにできていることを理解
-・"注意"であり、科学者は集中ではなく、注意を研究する
-・注意は周囲を見えなくするために危険を伴う行動でもある
+## 注意は動物的行動である<br>
+・集中は切れるようにできていることを理解<br>
+・"注意"であり、科学者は集中ではなく、注意を研究する<br>
+・注意は周囲を見えなくするために危険を伴う行動でもある<br>
 
-## 注意できる数は限られる
-・コリン・チェリー 両耳分離聴法によるカクテルパーティ効果の提唱
-・左右の別々の音源から異なる音声を同時に聞かせ、被験者にそれぞれの音声に集中して聞くよう指示
-・興味ある音源のみの理解が可能となる
+## 注意できる数は限られる<br>
+・コリン・チェリー 両耳分離聴法によるカクテルパーティ効果の提唱<br>
+・左右の別々の音源から異なる音声を同時に聞かせ、被験者にそれぞれの音声に集中して聞くよう指示<br>
+・興味ある音源のみの理解が可能となる<br>
 
-## ゾーンとは？
-・スリートが極度に集中し、自分の限界を超える最高のパフォーマンスを発揮できてしまうような、特殊な状態
-・心理学的には「フロー」
-・科学的にメカニズムは解明されていない
+## ゾーンとは？<br>
+・スリートが極度に集中し、自分の限界を超える最高のパフォーマンスを発揮できてしまうような、特殊な状態<br>
+・心理学的には「フロー」<br>
+・科学的にメカニズムは解明されていない<br>
 ![image](https://user-images.githubusercontent.com/131435195/236389254-0cfb78c7-0771-4639-bb7b-3e20034b883b.png)
 > Shehata, Mohammad, et al. "Team flow is a unique brain state associated with enhanced information integration and interbrain synchrony." Eneuro 8.5 (2021).
 
 
-## どのような勉強方法が効率的か
+## どのような勉強方法が効率的か<br>
 <img width="268" alt="image" src="https://user-images.githubusercontent.com/131435195/236389328-3faa14bd-7fc5-432e-bc98-8a62482a1dc3.png">
 <img width="382" alt="image" src="https://user-images.githubusercontent.com/131435195/236389332-ccbf0315-f11a-4766-801c-806012594c92.png">
 >Watanabe, Yusuke, and Yuji Ikegaya. "Effect of intermittent learning on task performance: a pilot study." Journal of Neuronet 38 (2017): 1-5.
