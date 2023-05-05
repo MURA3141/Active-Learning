@@ -86,7 +86,7 @@ Active-Learning　という言葉だけが一人走りしている状態は注�
  <br>
  <br>
  
-### どのようにやる気にさせるのか？ Candle problem
+### ■どのようにやる気にさせるのか？ Candle problem
 > Karl Duncker  1945<br>
  
  問い：テーブルに蝋が垂れないように壁に蝋燭を取り付けてください<br>
@@ -110,7 +110,7 @@ Result<br>
 If Then式に 「これをしたら これが貰える」というやり方は創造性が関与するタスクについては機能しにくい<br>
 <br>
  
-### どのようなときにやる気にさせるのか？ 
+### ■どのようなときにやる気にさせるのか？ 
 それではどのようなケースでIf Then式、つまり報酬が効果的になるのか<br>
 同様の実験を少しアレンジしてやってみた→機能性固着の撤廃を行うことで、問題を単純化した<br>
  <img width="239" alt="スクリーンショット 2023-05-05 16 06 12" src="https://user-images.githubusercontent.com/131435195/236396101-eb6cef04-9dee-4fed-8d12-754b758b4b04.png">
@@ -123,6 +123,7 @@ Results<br>
 <br>
 
 > Edward L. Deci 1965<br>
+
  ソマ・パズルをとく被験者を２つのグループに分類<br>
  1)パズルをとくと金銭的報酬（１ドル）を受け取れる<br>
  2)バズルをといても金銭的報酬（１ドル）は受け取れない!<br>
@@ -140,41 +141,40 @@ Results<br>
 「能力を発揮できている」「自分自身で目的を定め、計画を立て、実行している」という感覚があるときに、内発的動機を得やすい<br>
  　<br>
  　<br> 
+  <br> 
   
 # 集中力の科学
 90分間集中することは可能か　<br> 
  <br>
-## 注意は動物的行動である<br>
+### ■注意は動物的行動である<br>
 ・集中は切れるようにできていることを理解<br>
 ・"注意"であり、科学者は集中ではなく、注意を研究する<br>
 ・注意は周囲を見えなくするために危険を伴う行動でもある<br>
 
-## 注意できる数は限られる<br>
+### ■注意できる数は限られる<br>
 ・コリン・チェリー 両耳分離聴法によるカクテルパーティ効果の提唱<br>
 ・左右の別々の音源から異なる音声を同時に聞かせ、被験者にそれぞれの音声に集中して聞くよう指示<br>
 ・興味ある音源のみの理解が可能となる<br>
 
-## ゾーンとは？<br>
+### ■ゾーンとは？<br>
 ・スリートが極度に集中し、自分の限界を超える最高のパフォーマンスを発揮できてしまうような、特殊な状態<br>
 ・心理学的には「フロー」<br>
 ・科学的にメカニズムは解明されていない<br>
 ![image](https://user-images.githubusercontent.com/131435195/236389254-0cfb78c7-0771-4639-bb7b-3e20034b883b.png)
 > Shehata, Mohammad, et al. "Team flow is a unique brain state associated with enhanced information integration and interbrain synchrony." Eneuro 8.5 (2021).
 
-
-## どのような勉強方法が効率的か<br>
+### ■どのような勉強方法が効率的か<br>
 <img width="384" alt="スクリーンショット 2023-05-05 15 25 08" src="https://user-images.githubusercontent.com/131435195/236389745-5055ac7f-a6d8-4946-84fe-ff1ecc5adbfa.png">
 <img width="458" alt="スクリーンショット 2023-05-05 15 25 23" src="https://user-images.githubusercontent.com/131435195/236389769-833385a5-576c-4f6e-b8f1-3fd577a662c2.png">
 
->Watanabe, Yusuke, and Yuji Ikegaya. "Effect of intermittent learning on task performance: a pilot study." Journal of Neuronet 38 (2017): 1-5.
-![image](https://user-images.githubusercontent.com/131435195/236389341-a394ccdc-8766-4867-bb53-c39c5db69429.png)
-
-
+>Watanabe, Yusuke, and Yuji Ikegaya. "Effect of intermittent learning on task performance: a pilot study." Journal of Neuronet 38 (2017): 1-5.<br> 
+ 　<br> 
 ## Activeな学びのために<br>
 理解させるための授業構成の手段であるため、講義式の授業との併用をすることで、学生の集中を低下させないことも必要な構成要素<br>
 •集中時間は限定的<br>
 •集中できる環境を提供<br>
 •適度な休息が必須<br>
+ 　<br> 
 
 # アクティブラーニング型授業への取り組み<br>
 大学教員は知識を伝えることにはこだわるが、理解させることにこだわらない<br>
