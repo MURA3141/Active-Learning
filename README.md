@@ -21,7 +21,6 @@
 講義型<br>
 講義中心型<br>
 Active learning中心型<br>
- <br>
 **能動的な場面があれば、それはアクティブラーニング**<br>
 
 ### Active learningの代表的な種類<br>
@@ -45,6 +44,7 @@ Active learning中心型<br>
 意見交換・表現：数名のチームで意見を交換・表現を構築、さらに全体で発表するなど活動範囲を広げた学習<br>
  <br>
  <br>
+ 
 ### Active learningの効果<br>
 ・長期的な知識の定着、知識が深く定着<br>
 ・批判的思考力や問題解決能力が向上、ならびに、自己改善能力の学習<br>
@@ -53,7 +53,7 @@ Active learning中心型<br>
 ![image](https://user-images.githubusercontent.com/131435195/236380788-9651334b-e8a4-46f7-9a9d-b5316aad8919.png)
   <br>
   <br>
- 
+  
 ### Active learningの課題<br>
 ・授業のデザイン構成が難題<br>
 ・教員や学生のコミュニケーションスキルやコーチングスキル<br>
