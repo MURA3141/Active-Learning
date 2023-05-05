@@ -85,9 +85,10 @@ Active-Learning　という言葉だけが一人走りしている状態は注�
  <br>
  
 ## どのようにやる気にさせるのか？ Candle problem
-> Karl Duncker  1945
-問い：テーブルに蝋が垂れないように壁に蝋燭を取り付けてください
+> Karl Duncker  1945<br>
+問い：テーブルに蝋が垂れないように壁に蝋燭を取り付けてください<br>
 ![image](https://user-images.githubusercontent.com/131435195/236382049-3e0590f9-3cdd-43c6-a3a9-6bfa5a6db606.png)<br>
+
 機能性固着:ものの機能（用途）に固着するあまり、そのほかの機能に気づかなくなることで課題の難易度が高まる<br>
 
 > Sam Glucksberg 1965
