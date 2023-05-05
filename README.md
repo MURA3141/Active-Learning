@@ -58,10 +58,13 @@ Active learning中心型<br>
 ・授業のデザイン構成が難題<br>
 ・教員や学生のコミュニケーションスキルやコーチングスキル<br>
 ・評価方法の課題<br>
-**教員側の能力**<br>
+・**教員側の能力**<br>
+ <br>
+ <br>
+ <br>
 
 
-#　やるきの科学<br>
+# やるきの科学<br>
 
 ## Active-Learningの具現化<br>
 Active-Learning　という言葉だけが一人走りしている状態は注意をする必要がある。つまり、教育をActive-Learningに寄せる必要はない。講義形式を利用しつつ、Active-Learningを取り入れるなど、Active-Learningは目的に応じて選択され、あくまでも手段の一つである。必然的に受講する側のActiveさも必要となる。<br>
